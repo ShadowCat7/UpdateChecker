@@ -1,0 +1,10 @@
+C:\Users\Attridge\AppData\Local\Temporary Projects\UpdateChecker\bin\Debug\UpdateChecker.exe
+C:\Users\Attridge\AppData\Local\Temporary Projects\UpdateChecker\bin\Debug\UpdateChecker.pdb
+C:\Users\Attridge\AppData\Local\Temporary Projects\UpdateChecker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Attridge\AppData\Local\Temporary Projects\UpdateChecker\obj\x86\Debug\UpdateChecker.exe
+C:\Users\Attridge\AppData\Local\Temporary Projects\UpdateChecker\obj\x86\Debug\UpdateChecker.pdb
+C:\Users\Attridge\Programs\UpdateChecker\bin\Debug\UpdateChecker.exe
+C:\Users\Attridge\Programs\UpdateChecker\bin\Debug\UpdateChecker.pdb
+C:\Users\Attridge\Programs\UpdateChecker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Attridge\Programs\UpdateChecker\obj\x86\Debug\UpdateChecker.exe
+C:\Users\Attridge\Programs\UpdateChecker\obj\x86\Debug\UpdateChecker.pdb

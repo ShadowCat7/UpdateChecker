@@ -1,0 +1,8 @@
+UpdateChecker
+
+Pass arguments to update a program from a website.
+Requires 4 arguments:
+1) website address of the possibly new version number.
+2) file of the old version.
+3) the website address at which the program can be downloaded.
+4) the name of the file to download.

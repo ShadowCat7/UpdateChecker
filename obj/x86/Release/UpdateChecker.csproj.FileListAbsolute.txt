@@ -1,0 +1,6 @@
+C:\Users\Attridge\AppData\Local\Temporary Projects\UpdateChecker\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Attridge\Programs\UpdateChecker\bin\Release\UpdateChecker.exe
+C:\Users\Attridge\Programs\UpdateChecker\bin\Release\UpdateChecker.pdb
+C:\Users\Attridge\Programs\UpdateChecker\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Attridge\Programs\UpdateChecker\obj\x86\Release\UpdateChecker.exe
+C:\Users\Attridge\Programs\UpdateChecker\obj\x86\Release\UpdateChecker.pdb
